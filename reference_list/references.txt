@@ -41,13 +41,21 @@ ChatGPT (OpenAI)
          Correcting mistakes made in background gradient display.
          Correcting layout justification, mistakes when making modal carousels, and debugging alignment when overflow occured.
 
-      b. Example of prompts used
+      b. Prompts used
          “Why are my custom font-size styles not applying to the Bootstrap navbar?”
          “How can I scale the navbar brand text and logo responsively?""
          “How does object-fit: cover affect image cropping?”
          “How can I apply a continuous background gradient across a scrolling page?”
          "What does display: block; mean in CSS?”
          “What does .navbar-nav .nav-item { margin-left: 1rem; } mean?”
+         "How to implement @media queries to simplify the styling?"
+         "What can I do to make the HTML less confusing and messy"
+         "What is wrong with this"
+         "What resources to look at for Bootstrap styling"
+         "What resources to look for Boostrap styling with MDN HTML and CSS"
+         "Why does my alignment not work and where can I fix it"
+         "How do I make circular icons appear over buttons that link to other pages"
+         And different variations of "Does this work" "Is this correct"
 
 HTML Validator
    1. https://validator.w3.org/
