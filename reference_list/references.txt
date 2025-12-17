@@ -49,6 +49,9 @@ ChatGPT (OpenAI)
          "What does display: block; mean in CSS?”
          “What does .navbar-nav .nav-item { margin-left: 1rem; } mean?”
 
+HTML Validator
+   1. https://validator.w3.org/
+
 Google Fonts
    1. Primary font used: Ovo 
          a. https://fonts.google.com/specimen/Ovo
